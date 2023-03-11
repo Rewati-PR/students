@@ -21,5 +21,14 @@ let students = [
     { id: 20, name: "Carla", course: "React", grade: "D", city: "Tokyo" },
     { id: 21, name: "Joanna", course: "JS", grade: "A", city: "Paris" },
     { id: 22, name: "Pam", course: "JS", grade: "B", city: "Paris" },
+    { id: 23, name: "Timothy", course: "React", grade: "C", city: "London" },
+    { id: 24, name: "Albert", course: "Node", grade: "A", city: "Paris" },
+    { id: 25, name: "Prince", course: "JS", grade: "B", city: "London" },
+    { id: 26, name: "Stephen", course: "Node", grade: "B", city: "Paris" },
+    { id: 27, name: "Viktor", course: "React", grade: "A", city: "Tokyo" },
+    { id: 28, name: "Heather", course: "Node", grade: "B", city: "London" },
+    { id: 29, name: "Diana", course: "Node", grade: "C", city: "Tokyo" },
+    { id: 30, name: "Norma", course: "JS", grade: "D", city: "Paris" },
+    { id: 31, name: "Barbara", course: "JS", grade: "D", city: "London" },
   ];
   module.exports.studentsData = students;
