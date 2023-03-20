@@ -13,7 +13,8 @@ app.use(function (req, res, next) {
   );
   next();
 });
-const port = 2410;
+var port = 2410;
+
 app.listen(port, () => console.log(`Node app listening on port ${port}!`));
 
 let {getConnection} = require("./mobileDB.js");
